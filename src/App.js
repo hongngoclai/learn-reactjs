@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-          This is my first project of React.JS 
+          This is Ruby's first project of React.JS 
         </p>
         <a
           className="App-link"
